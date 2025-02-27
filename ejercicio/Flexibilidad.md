@@ -9,3 +9,6 @@ Los ejercicios flexibilidad buscan mejorar las capacidades de movimiento del ind
 1. Investiga famosos ejerciocios de flexibilidad de acuerdo a tus necesidades.
 2. Aprende a realizar estos ejericicicos con buena tecnica de forma que puedas hacerlos por tu cuenta.
 3. Realizalos de forma rutinaria.
+## Consejos
+- Estudia bien los movimientos.
+- Aprende constantemente para no lesionarte.
