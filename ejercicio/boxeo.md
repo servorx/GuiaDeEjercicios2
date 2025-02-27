@@ -1,8 +1,3 @@
-Boxeo
-Darse a pu;os con todos
-Haces mucho cardio
-simplemente te das pu;os contra alguien con unos guantes
-no te mates xfavor, no te peuges tan duro con los demas
 # Ejercicio boxeo
 ## Descripción
 darse a puños entre todos 
@@ -12,7 +7,7 @@ darse a puños entre todos
 - mejora los reflejos.
 ## Instrucciones
 1. Comienza con un calentamiento de 5-10 minutos.
-2. Practica saprring y entrena constantemente buscando la mejor tecnica.
+2. Practica saprring y entrena constantemente buscando la mejor tecnica
 ## Consejos
 - Mantén una hidratación adecuada.
 - Escoge un ritmo que puedas mantener.

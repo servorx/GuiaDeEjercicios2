@@ -11,4 +11,4 @@ Buscan cargar una gran cantidad de peso para aumentar la fuerza al momento de ca
 3. Somete tu cuerpo al limite pero no te arrieesges a buscar una lesion.
 ## Consejos
 - Mantén una hidratación adecuada.
-- Estudia bien la tecnica para no someterte a lesiones.
+- Estudia bien la tecnica para no someterte a lesiones

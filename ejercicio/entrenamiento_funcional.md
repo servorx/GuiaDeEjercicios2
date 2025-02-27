@@ -7,6 +7,6 @@ Previene lesiones
 Mejora el desempeño atlético
 Contribuye a evitar complicaciones de patologías.
 ## Instrucciones
-prepara tu equipo y realiza los ejercicios espeficos, puede ser con barras, mancuernas, fisiobola, etc...
+prepara tu equipo y realiza los ejercicios espeficos, puede ser con barras, mancuernas, fisiobola, etc.
 ## Consejos
 trata de adaptar estos ejercicios en tu rutina y realizar la tecnica de forma que no te vayas a lesionar.

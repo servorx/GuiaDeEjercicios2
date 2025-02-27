@@ -12,4 +12,4 @@ El ciclosmo es una buena forma de cardio porque somete a las piernas a una gran 
 ## Consejos
 - Mantén una hidratación adecuada.
 - Escoge un ritmo que puedas mantener.
-- no te excedas pero busca dar lo mejor siempre
+- no te excedas pero busca dar lo mejor siempre. 

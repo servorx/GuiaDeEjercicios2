@@ -11,4 +11,4 @@ La natacion es el quivalente a correr en el agua, moviento los brazos y los pies
 3. Trata de mejorar y dar lo mejor en cada entrenamiento.
 ## Consejos
 - Mantén una hidratación adecuada.
-- Escoge un ritmo que puedas mantener.
+- Escoge un ritmo que puedas mantener
