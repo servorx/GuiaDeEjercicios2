@@ -13,6 +13,6 @@ Bienvenido a nuestra guía de ejercicios físicos, donde compartimos descripcion
 - [Ejercicio de Ciclismo](ejercicio/Ciclismo.md): Gran ejercicio cardiovascular de bajo impacto.
 - [Ejercicio de Natación](ejercicio/Natacion.md): Trabaja todos los grupos musculares de manera suave.
 - [Ejercicio de Boxeo](ejercicio/Boxeo.md): Mejora la coordinación y la resistencia.
-- [Ejercicio de CrossFit](ejercicio/Crossfit.md): Entrenamiento intensivo y funcional.
+- [Ejercicio de CrossFit](ejercicio/CrossFit.md): Entrenamiento intensivo y funcional.
 
 ¡Esperamos que encuentres útiles estos ejercicios y te inspires para mantenerte activo y saludable!
