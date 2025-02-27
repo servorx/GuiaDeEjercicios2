@@ -6,3 +6,5 @@ Mejora la fuerza, la coordinación, la agilidad, la velocidad, la resistencia y 
 Previene lesiones
 Mejora el desempeño atlético
 Contribuye a evitar complicaciones de patologías.
+## Instrucciones
+prepara tu equipo y realiza los ejercicios espeficos, puede ser con barras, mancuernas, fisiobola, etc...
