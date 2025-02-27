@@ -8,4 +8,8 @@ Aumenta la masa muscular
 Mejora la movilidad de las articulaciones
 Previene la pérdida ósea
 Reduce el porcentaje de grasa
-
+## Instrucciones
+    Calentamiento. Como en cualquier otra actividad física, el calentamiento es una obligación para evitar cualquier tipo de lesión. ...
+    Técnica. ...
+    Work Out of the Day (WOD) ...
+    Estiramientos.
