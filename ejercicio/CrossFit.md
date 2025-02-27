@@ -13,3 +13,6 @@ Reduce el porcentaje de grasa
     Técnica. ...
     Work Out of the Day (WOD) ...
     Estiramientos.
+## Consejos
+- Mantén una hidratación adecuada.
+- Escoge un ritmo que puedas mantener.
