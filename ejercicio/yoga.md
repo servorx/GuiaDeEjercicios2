@@ -7,3 +7,5 @@ La yoga  es una disciplina tradicional espiritual, física y mental originada en
 - Mejora el estado de ánimo.
 ## Instrucciones
 1. Estudia los movimientos de la yoga y realizalos buscanldo la meditación y la espiritualidad para contribuir al bienestar mental.
+## Consejos
+- Busca un luegar adecuado, tranquilo y busca la paz en ti.
