@@ -14,3 +14,6 @@ El metodo Pilates busca la mejora equilibrada de las capacidades físicas median
     Fluidez
     Respiración
 Y realizalos, preferiblemente con una persona apta en el tema
+## Consejos
+- Mantén una hidratación adecuada.
+- Escoge un ritmo que puedas mantener.
